@@ -30,3 +30,13 @@ https://www.rapidtables.com/convert/number/binary-to-decimal.html
 
 
 
+![convert binary to decimal](https://github.com/abhimanyu081/LeetCodeMayChallenge/blob/master/bintoDeci.png "Binary to Decimal")
+
+
+![convert  decimal to binary](https://github.com/abhimanyu081/LeetCodeMayChallenge/blob/master/DeciToBin.png "Binary to Decimal")
+
+
+
+
+
+
